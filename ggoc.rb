@@ -1,4 +1,4 @@
- class GoNetflixActivities < Formula
+ class Ggoc < Formula
   desc "Generate Google OAuth2 credential file."
   homepage "https://github.com/noissefnoc/ggoc"
   version "v0.0.1"
